@@ -1,0 +1,129 @@
+{
+	"Tutors": [
+	  {
+		"tutorName": "Shambhavi",
+		"aboutTutor" : "Miss. Shambhavi Sant is an esteemed tutor at Gurucool and holds a Ph.D in Machine Leaning. Prior to this, she was working as a Senior Data Scientist at a fortune 100 company",
+		"profilePicture": "/images/shamma.png",
+		"tutorRating": 5,
+		"city" : "Dallas",
+		"state": "Texas",
+		  "country": "USA",
+		"tutorLocation": {
+		  "city": "Dallas",
+		  "state": "Texas",
+		  "country": "USA"
+		},
+		"tutorDescription": "Teaches Python",
+		"tutorLevel": 2,
+		"tutorExpertise": "Python",
+		"tutorNumOfChats": 100,
+		"tutorCertificates": [
+		  "Python",
+		  "Java",
+		  "C"
+		],
+		"workingHours": "9am-5pm",
+		"feedback": [
+		  {
+			"Dhruv": "Good",
+			"Jayant": "Good"
+		  }
+		],
+		"rating": [
+		  {
+			"Dhruv": 5,
+			"Jayant": 5
+		  }
+		],
+		"noOfHrsPerDay": 10,
+		"noOfAppointmentsAvailable": 1,
+		"appointmentInfo": [
+		  {
+			"username": "jayant",
+			"time": "8"
+		  },
+		  {
+			"username": "jayant",
+			"time": "8"
+		  }
+		]
+	  },
+	  {
+		"tutorName": "Apoorva K",
+		"aboutTutor" : "Miss. Apoorva Kamat is an esteemed tutor at Gurucool and holds a Ph.D in Operating Systems. Prior to this, she was working as a Senior Software Developer at a fortune 100 company",
+
+		"profilePicture": "",
+		"tutorRating": 5,
+		"city" : "Dallas",
+		"state": "Texas",
+		  "country": "USA",
+		"tutorLocation": {
+		  "city": "Dallas",
+		  "state": "Texas",
+		  "country": "USA"
+		},
+		"tutorDescription": "Teaches C#",
+		"tutorLevel": 2,
+		"tutorExpertise": "Java",
+		"tutorNumOfChats": 100,
+		"tutorCertificates": [
+		  "Python",
+		  "Java",
+		  "C"
+		],
+		"workingHours": "9am-5pm",
+		"feedback": [
+		  {
+			"Dhruv": "Good",
+			"Jayant": "Good"
+		  }
+		],
+		"rating": [
+		  {
+			"Dhruv": 5,
+			"Jayant": 5
+		  }
+		],
+		"noOfHrsPerDay": 10,
+		"noOfAppointmentsAvailable": 4
+	  },
+	  {
+		"tutorName": "Apoorva P",
+		"aboutTutor" : "Miss. Apoorva Pise is an esteemed tutor at Gurucool and holds a Ph.D in Virtual Reality. Prior to this, she was working as a Senior VR Developer at a fortune 100 company",
+		"profilePicture": "",
+		"tutorRating": 5,
+		"city" : "Austin",
+		"state": "Texas",
+		  "country": "USA",
+		"tutorLocation": {
+		  "city": "Dallas",
+		  "state": "Texas",
+		  "country": "USA"
+		},
+		"tutorDescription": "Teaches Unity",
+		"tutorLevel": 2,
+		"tutorExpertise": "AR/VR",
+		"tutorNumOfChats": 100,
+		"tutorCertificates": [
+		  "Python",
+		  "Java",
+		  "C"
+		],
+		"workingHours": "9am-5pm",
+		"feedback": [
+		  {
+			"Nikhil": "Good",
+			"Jayant": "Good"
+		  }
+		],
+		"rating": [
+		  {
+			"Nikhil": 5,
+			"Jayant": 5
+		  }
+		],
+		"noOfHrsPerDay": 10,
+		"noOfAppointmentsAvailable": 3
+	  }
+	]
+  }

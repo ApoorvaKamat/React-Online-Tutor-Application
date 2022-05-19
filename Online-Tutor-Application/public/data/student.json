@@ -1,0 +1,92 @@
+{
+	"Students": [
+    {
+      "studentname": "Nikhil H",
+      "grade": "12th",
+      "courses" : ["Web Development, ", "C++"],
+      "username": "nikhil@gmail.com",
+      "favourites": [ "appu", "pie", "mogudi" ],
+      "registeredCourses": [
+        {
+          "tutorName": "Apoorva",
+          "time": "7pm",
+          "hoursRegisterd": 8,
+          "hoursCompleted": 3
+        },
+        {
+          "tutorName": "Kamat",
+          "time": "8pm",
+          "hoursRegisterd": 8,
+          "hoursCompleted": 3
+        }
+      ]
+
+    },
+    {
+      "studentname": "Jayant B",
+      "grade": "10th",
+      "courses": [ "Machine Learning, ", "Python" ],
+      "username": "jayant@gmail.com",
+      "favourites": [ "Shamma", "Gubba", "mogudi" ],
+      "registeredCourses": [
+        {
+          "tutorName": "Shambhavi",
+          "time": "7pm",
+          "hoursRegisterd": 8,
+          "hoursCompleted": 3
+        },
+        {
+          "tutorName": "Sant",
+          "time": "8pm",
+          "hoursRegisterd": 8,
+          "hoursCompleted": 3
+        }
+      ]
+
+    },
+    {
+      "studentname": "Dhruv K",
+      "grade": "11th",
+      "courses": [ "Virtual Reality, ", "Augmented Reality" ],
+      "username": "dhruv@gmail.com",
+      "favourites": [ "monkey", "farerro", "mogudi" ],
+      "registeredCourses": [
+        {
+          "tutorName": "Pinky",
+          "time": "7pm",
+          "hoursRegisterd": 8,
+          "hoursCompleted": 3
+        },
+        {
+          "tutorName": "Pise",
+          "time": "8pm",
+          "hoursRegisterd": 8,
+          "hoursCompleted": 3
+        }
+      ]
+
+    },
+    {
+      "studentname": "Chinnamy S",
+      "grade": "9th",
+      "courses": [ "Virtual Reality, ", "Python" ],
+      "username": "chinmay@gmail.com",
+      "favourites": [ "avito", "bobdi", "mogudi" ],
+      "registeredCourses": [
+        {
+          "tutorName": "Anvi",
+          "time": "7pm",
+          "hoursRegisterd": 8,
+          "hoursCompleted": 3
+        },
+        {
+          "tutorName": "Azi",
+          "time": "8pm",
+          "hoursRegisterd": 8,
+          "hoursCompleted": 3
+        }
+      ]
+
+    }
+  ]
+}

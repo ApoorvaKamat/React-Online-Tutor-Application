@@ -1,0 +1,108 @@
+.backButton{
+    margin-top: 5%;
+    margin-bottom: 20px;
+    cursor: pointer;
+
+}
+.loginWrapper{
+    /* position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%); */
+    height: 80%;
+    width: 30%;
+    /* background-color: #fff8f8c2; */
+    padding: 10px;
+    
+}
+.bi-arrow-left{
+    font-size: 32px;
+    color: #ffffffa8;
+}
+.loginContainer{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center; 
+    height: 75vh;
+    width: 100%;
+}
+.loginHeader{
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+}
+.loginNav{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    margin-top: 20%;
+}
+.loginLink,.signUpLink,.studentOption,.tutorOption{
+    border: 2px solid #0e0e0ecf ;
+    padding: 10px;
+    color: RGB(23,64,123);
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    border-radius: 20px;
+    background-color: #ffffffa8;
+}
+.signUpLink,.signUpOptions,.loginOptions{
+   margin-top: 10px;
+}
+.loginLink::before,.signUpLink::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 10px;
+    height: 100%;
+    background:#0e0e0e8f;
+    transition: 0.5s ease-in-out;
+    border-radius: 10px;
+  }
+  
+.loginLink:hover::before,.signUpLink:hover::before {
+    width: 100%;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+  }
+.options{
+      overflow: hidden;
+      height: 0px;
+}
+
+.signUpOptions,.loginOptions {
+    height: auto;
+}
+.arrow-up-animate{
+    animation-name: ArrowUp;
+    animation-fill-mode: forwards;
+    animation-duration: 1000ms;
+}
+.hideLink{
+    display: none;
+}
+.tutorOption{
+    margin-top: 10px;
+}
+.activeOption{
+    background-color: #3579b07d;
+    color: white;
+}
+/* .infoContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+} */
+@keyframes ArrowUp{
+    0%{
+        bottom:10px
+    }
+     100%{
+       bottom: 50px;
+    }
+}
+  

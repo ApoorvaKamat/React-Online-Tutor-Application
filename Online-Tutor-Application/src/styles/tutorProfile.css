@@ -1,0 +1,16 @@
+.profileContainer{
+    width: 50%;
+}
+.profilePic{
+    height: 20%;
+    width: 20%;
+    margin-left: 2px;
+    margin-right: 10px;
+    margin-top: 15px;
+    border-radius: 50%;
+}
+.mainContainer{
+    display: flex;
+    justify-content: center;
+
+}
